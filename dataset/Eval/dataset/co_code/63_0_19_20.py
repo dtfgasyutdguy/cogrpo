@@ -1,0 +1,1 @@
+#     global _OBJAVERSE_ANNOTATIONS

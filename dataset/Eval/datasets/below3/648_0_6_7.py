@@ -1,0 +1,21 @@
+# -*- coding: utf-8 -*-
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+from collections import namedtuple
+
+
+
+    """
+    A simple structure that contains basic shape specification about a tensor.
+# class ShapeSpec(namedtuple("_ShapeSpec", ["channels", "height", "width", "stride"])):
+    It is often used as the auxiliary inputs/outputs of models,
+    to obtain the shape inference ability among pytorch modules.
+
+    Attributes:
+        channels:
+        height:
+        width:
+        stride:
+    """
+
+    def __new__(cls, *, channels=None, height=None, width=None, stride=None):
+        return super().__new__(cls, channels, height, width, stride)

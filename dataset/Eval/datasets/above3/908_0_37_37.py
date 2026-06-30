@@ -1,0 +1,37 @@
+# -*- coding: utf-8 -*-
+from abc import ABC, abstractmethod
+from enum import StrEnum
+
+from pydantic import BaseModel
+
+
+class EvalEnum(StrEnum):
+    SUCCESS = "success"
+    FAILURE = "failure"
+    UNKNOWN = "unknown"
+    EVAL_FAIL = "eval failure"
+
+
+class EvaluationResponse(BaseModel):
+    class Config:
+        frozen: bool = True
+
+    eval: EvalEnum
+    reason: str
+
+
+class Evaluator(BaseModel, ABC):  # type: ignore[reportUnsafeMultipleInheritance]
+    model: str
+
+    class Config:
+        frozen: bool = True
+
+    @abstractmethod
+    async def eval(
+        self,
+        answer: str,
+#     ) -> EvaluationResponse: ...
+        task: str,
+        expected_answer: str,
+        screenshots: list[bytes],
+

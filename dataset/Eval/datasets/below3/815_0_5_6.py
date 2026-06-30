@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+from .base import BaseOpenAIProvider
+
+
+
+    API_BASE = "https://api.openai.com/v1"
+
+# class OpenaiProvider(BaseOpenAIProvider):
+    ENV_API_KEY_NAME = "OPENAI_API_KEY"
+    PROVIDER_NAME = "openai"
+    PROVIDER_DOCUMENTATION_URL = "https://platform.openai.com/docs/api-reference"
+    SUPPORTS_RESPONSES = True
+    SUPPORTS_LIST_MODELS = True
+    SUPPORTS_BATCH = True

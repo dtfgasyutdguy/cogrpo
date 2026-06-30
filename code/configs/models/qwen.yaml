@@ -1,0 +1,5 @@
+name: qwen
+short_name: Qwen2.5-Coder-7B-Instruct
+model_path: /path/to/models/Qwen2.5-Coder-7B-Instruct
+batch_size_per_device: 10
+chat_template_kind: chat

@@ -1,0 +1,3602 @@
+[
+  {
+    "0": "Variable defined multiple times"
+  },
+  {
+    "1": "Unnecessary pass"
+  },
+  {
+    "2": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "3": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "4": "C-style condition"
+  },
+  {
+    "5": "Builtin shadowed by local variable"
+  },
+  {
+    "6": "Request without certificate validation"
+  },
+  {
+    "7": "Potentially uninitialized local variable"
+  },
+  {
+    "8": "Misnamed class"
+  },
+  {
+    "9": "Request without certificate validation"
+  },
+  {
+    "10": "First parameter of a method is not named 'self'"
+  },
+  {
+    "11": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "12": "Importing value of mutable attribute"
+  },
+  {
+    "13": "Interesting taint sinks"
+  },
+  {
+    "14": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "15": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "16": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "17": "String concatenation in loop"
+  },
+  {
+    "18": "Unnecessary pass"
+  },
+  {
+    "19": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "20": "Remote flow sources"
+  },
+  {
+    "21": "Use of the return value of a procedure"
+  },
+  {
+    "22": "Variable defined multiple times"
+  },
+  {
+    "23": "Suspicious unused loop iteration variable"
+  },
+  {
+    "24": "Redundant comparison"
+  },
+  {
+    "25": "Suspicious unused loop iteration variable"
+  },
+  {
+    "26": "First parameter of a method is not named 'self'"
+  },
+  {
+    "27": "Overly permissive regular expression range"
+  },
+  {
+    "28": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "29": "Type inference fails for 'object'"
+  },
+  {
+    "30": "Misnamed class"
+  },
+  {
+    "31": "Variable defined multiple times"
+  },
+  {
+    "32": "C-style condition"
+  },
+  {
+    "33": "Use of the 'global' statement."
+  },
+  {
+    "34": "Constant in conditional expression or statement"
+  },
+  {
+    "35": "Wrong number of arguments in a call"
+  },
+  {
+    "36": "Call graph"
+  },
+  {
+    "37": "Statement has no effect"
+  },
+  {
+    "38": "Constant in conditional expression or statement"
+  },
+  {
+    "39": "C-style condition"
+  },
+  {
+    "40": "Summarized callable call sites"
+  },
+  {
+    "41": "'import *' used"
+  },
+  {
+    "42": "Builtin shadowed by local variable"
+  },
+  {
+    "43": "Type inference fails for 'object'"
+  },
+  {
+    "44": "NotImplemented is not an Exception"
+  },
+  {
+    "45": "Unused import"
+  },
+  {
+    "46": "C-style condition"
+  },
+  {
+    "47": "Unnecessary pass"
+  },
+  {
+    "48": "Unused parameter"
+  },
+  {
+    "49": "Ignored return value"
+  },
+  {
+    "50": "Use of the return value of a procedure"
+  },
+  {
+    "51": "'import *' may pollute namespace"
+  },
+  {
+    "52": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "53": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "54": "Builtin shadowed by local variable"
+  },
+  {
+    "55": "Ignored return value"
+  },
+  {
+    "56": "Use of the 'global' statement."
+  },
+  {
+    "57": "Weak hashes"
+  },
+  {
+    "58": "Type inference fails for 'object'"
+  },
+  {
+    "59": "Interesting taint sinks"
+  },
+  {
+    "60": "Weak hashes"
+  },
+  {
+    "61": "Summarized callable call sites"
+  },
+  {
+    "62": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "63": "Unnecessary lambda"
+  },
+  {
+    "64": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "65": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "66": "Unused import"
+  },
+  {
+    "67": "Redundant assignment"
+  },
+  {
+    "68": "Potentially uninitialized local variable"
+  },
+  {
+    "69": "Potentially uninitialized local variable"
+  },
+  {
+    "70": "Variable defined multiple times"
+  },
+  {
+    "71": "Unused import"
+  },
+  {
+    "72": "Flask app is run in debug mode"
+  },
+  {
+    "73": "'import *' may pollute namespace"
+  },
+  {
+    "74": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "75": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "76": "Unused global variable"
+  },
+  {
+    "77": "Constant in conditional expression or statement"
+  },
+  {
+    "78": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "79": "Accepting unknown SSH host keys when using Paramiko"
+  },
+  {
+    "80": "Unreachable code"
+  },
+  {
+    "81": "Potentially uninitialized local variable"
+  },
+  {
+    "82": "Unused import"
+  },
+  {
+    "83": "Builtin shadowed by local variable"
+  },
+  {
+    "84": "Builtin shadowed by local variable"
+  },
+  {
+    "85": "Weak hashes"
+  },
+  {
+    "86": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "87": "Imprecise assert"
+  },
+  {
+    "88": "Importing value of mutable attribute"
+  },
+  {
+    "89": "Use of the 'global' statement."
+  },
+  {
+    "90": "Remote flow sources"
+  },
+  {
+    "91": "Empty except"
+  },
+  {
+    "92": "Interesting taint sinks"
+  },
+  {
+    "93": "Use of the return value of a procedure"
+  },
+  {
+    "94": "Use of the return value of a procedure"
+  },
+  {
+    "95": "Unnecessary pass"
+  },
+  {
+    "96": "Unnecessary lambda"
+  },
+  {
+    "97": "Call graph"
+  },
+  {
+    "98": "Unused parameter"
+  },
+  {
+    "99": "Use of the return value of a procedure"
+  },
+  {
+    "100": "Unnecessary pass"
+  },
+  {
+    "101": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "102": "Type inference fails for 'object'"
+  },
+  {
+    "103": "Request Handlers"
+  },
+  {
+    "104": "Builtin shadowed by local variable"
+  },
+  {
+    "105": "Request without certificate validation"
+  },
+  {
+    "106": "Binding a socket to all network interfaces"
+  },
+  {
+    "107": "C-style condition"
+  },
+  {
+    "108": "'exec' used"
+  },
+  {
+    "109": "Builtin shadowed by local variable"
+  },
+  {
+    "110": "Request Handlers"
+  },
+  {
+    "111": "Call graph"
+  },
+  {
+    "112": "String concatenation in loop"
+  },
+  {
+    "113": "Unused global variable"
+  },
+  {
+    "114": "Redundant assignment"
+  },
+  {
+    "115": "Unnecessary pass"
+  },
+  {
+    "116": "First argument to super() is not enclosing class"
+  },
+  {
+    "117": "Remote flow sources"
+  },
+  {
+    "118": "Unused parameter"
+  },
+  {
+    "119": "Weak hashes"
+  },
+  {
+    "120": "Request Handlers"
+  },
+  {
+    "121": "Comparison using is when operands support `__eq__`"
+  },
+  {
+    "122": "points-to fails for expression."
+  },
+  {
+    "123": "Statement has no effect"
+  },
+  {
+    "124": "Testing equality to None"
+  },
+  {
+    "125": "Duplication in regular expression character class"
+  },
+  {
+    "126": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "127": "Testing equality to None"
+  },
+  {
+    "128": "Class should be a context manager"
+  },
+  {
+    "129": "Variable defined multiple times"
+  },
+  {
+    "130": "Potentially uninitialized local variable"
+  },
+  {
+    "131": "C-style condition"
+  },
+  {
+    "132": "Statement has no effect"
+  },
+  {
+    "133": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "134": "Interesting taint sinks"
+  },
+  {
+    "135": "points-to fails for expression."
+  },
+  {
+    "136": "Unreachable code"
+  },
+  {
+    "137": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "138": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "139": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "140": "Interesting taint sinks"
+  },
+  {
+    "141": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "142": "Request without certificate validation"
+  },
+  {
+    "143": "Implicit string concatenation in a list"
+  },
+  {
+    "144": "Type inference fails for 'object'"
+  },
+  {
+    "145": "Unused import"
+  },
+  {
+    "146": "Testing equality to None"
+  },
+  {
+    "147": "Imprecise assert"
+  },
+  {
+    "148": "Suspicious unused loop iteration variable"
+  },
+  {
+    "149": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "150": "Ignored return value"
+  },
+  {
+    "151": "Statement has no effect"
+  },
+  {
+    "152": "Unnecessary delete statement in function"
+  },
+  {
+    "153": "Testing equality to None"
+  },
+  {
+    "154": "Ignored return value"
+  },
+  {
+    "155": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "156": "Imprecise assert"
+  },
+  {
+    "157": "Unreachable code"
+  },
+  {
+    "158": "Ignored return value"
+  },
+  {
+    "159": "Default version of SSL/TLS may be insecure"
+  },
+  {
+    "160": "Empty except"
+  },
+  {
+    "161": "Imprecise assert"
+  },
+  {
+    "162": "Unused parameter"
+  },
+  {
+    "163": "Call graph"
+  },
+  {
+    "164": "'import *' may pollute namespace"
+  },
+  {
+    "165": "Redundant assignment"
+  },
+  {
+    "166": "Use of the return value of a procedure"
+  },
+  {
+    "167": "Unnecessary lambda"
+  },
+  {
+    "168": "Binding a socket to all network interfaces"
+  },
+  {
+    "169": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "170": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "171": "Summarized callable call sites"
+  },
+  {
+    "172": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "173": "Class should be a context manager"
+  },
+  {
+    "174": "Type inference fails for 'object'"
+  },
+  {
+    "175": "Statement has no effect"
+  },
+  {
+    "176": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "177": "Remote flow sources"
+  },
+  {
+    "178": "Unreachable code"
+  },
+  {
+    "179": "Misnamed class"
+  },
+  {
+    "180": "Remote flow sources"
+  },
+  {
+    "181": "Unnecessary lambda"
+  },
+  {
+    "182": "Implicit string concatenation in a list"
+  },
+  {
+    "183": "Remote flow sources"
+  },
+  {
+    "184": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "185": "Module is imported more than once"
+  },
+  {
+    "186": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "187": "Redundant assignment"
+  },
+  {
+    "188": "Interesting taint sinks"
+  },
+  {
+    "189": "C-style condition"
+  },
+  {
+    "190": "Ignored return value"
+  },
+  {
+    "191": "Use of the return value of a procedure"
+  },
+  {
+    "192": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "193": "Taint sinks"
+  },
+  {
+    "194": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "195": "Unused import"
+  },
+  {
+    "196": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "197": "Unused parameter"
+  },
+  {
+    "198": "Interesting taint sinks"
+  },
+  {
+    "199": "Remote flow sources"
+  },
+  {
+    "200": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "201": "Request Handlers"
+  },
+  {
+    "202": "C-style condition"
+  },
+  {
+    "203": "Empty except"
+  },
+  {
+    "204": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "205": "Module is imported more than once"
+  },
+  {
+    "206": "points-to fails for expression."
+  },
+  {
+    "207": "Potentially uninitialized local variable"
+  },
+  {
+    "208": "Use of the return value of a procedure"
+  },
+  {
+    "209": "Use of the 'global' statement."
+  },
+  {
+    "210": "Remote flow sources"
+  },
+  {
+    "211": "First parameter of a method is not named 'self'"
+  },
+  {
+    "212": "Remote flow sources"
+  },
+  {
+    "213": "Unused parameter"
+  },
+  {
+    "214": "Non-callable called"
+  },
+  {
+    "215": "Use of the 'global' statement."
+  },
+  {
+    "216": "Potentially uninitialized local variable"
+  },
+  {
+    "217": "Request without certificate validation"
+  },
+  {
+    "218": "Wrong name for an argument in a call"
+  },
+  {
+    "219": "Wrong name for an argument in a call"
+  },
+  {
+    "220": "Ignored return value"
+  },
+  {
+    "221": "Builtin shadowed by local variable"
+  },
+  {
+    "222": "First argument to super() is not enclosing class"
+  },
+  {
+    "223": "'import *' may pollute namespace"
+  },
+  {
+    "224": "'import *' used"
+  },
+  {
+    "225": "Imprecise assert"
+  },
+  {
+    "226": "Use of the 'global' statement."
+  },
+  {
+    "227": "Builtin shadowed by local variable"
+  },
+  {
+    "228": "Suspicious unused loop iteration variable"
+  },
+  {
+    "229": "'exec' used"
+  },
+  {
+    "230": "Use of insecure SSL/TLS version"
+  },
+  {
+    "231": "Statement has no effect"
+  },
+  {
+    "232": "Unnecessary lambda"
+  },
+  {
+    "233": "Unreachable code"
+  },
+  {
+    "234": "`__init__` method returns a value"
+  },
+  {
+    "235": "Summarized callable call sites"
+  },
+  {
+    "236": "'import *' used"
+  },
+  {
+    "237": "Request Handlers"
+  },
+  {
+    "238": "Imprecise assert"
+  },
+  {
+    "239": "String concatenation in loop"
+  },
+  {
+    "240": "Module is imported more than once"
+  },
+  {
+    "241": "Remote flow sources"
+  },
+  {
+    "242": "Unnecessary pass"
+  },
+  {
+    "243": "Importing value of mutable attribute"
+  },
+  {
+    "244": "Unnecessary delete statement in function"
+  },
+  {
+    "245": "Unreachable code"
+  },
+  {
+    "246": "Variable defined multiple times"
+  },
+  {
+    "247": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "248": "String concatenation in loop"
+  },
+  {
+    "249": "Weak hashes"
+  },
+  {
+    "250": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "251": "Misnamed class"
+  },
+  {
+    "252": "Importing value of mutable attribute"
+  },
+  {
+    "253": "Empty except"
+  },
+  {
+    "254": "'exec' used"
+  },
+  {
+    "255": "Weak hashes"
+  },
+  {
+    "256": "Misnamed class"
+  },
+  {
+    "257": "Unused global variable"
+  },
+  {
+    "258": "Incomplete URL substring sanitization"
+  },
+  {
+    "259": "Unused parameter"
+  },
+  {
+    "260": "Suspicious unused loop iteration variable"
+  },
+  {
+    "261": "Builtin shadowed by local variable"
+  },
+  {
+    "262": "Interesting taint sinks"
+  },
+  {
+    "263": "points-to fails for expression."
+  },
+  {
+    "264": "Taint sinks"
+  },
+  {
+    "265": "Unused parameter"
+  },
+  {
+    "266": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "267": "Redundant comparison"
+  },
+  {
+    "268": "Redundant assignment"
+  },
+  {
+    "269": "Empty except"
+  },
+  {
+    "270": "First parameter of a method is not named 'self'"
+  },
+  {
+    "271": "First parameter of a method is not named 'self'"
+  },
+  {
+    "272": "Wrong number of arguments in a call"
+  },
+  {
+    "273": "Taint sinks"
+  },
+  {
+    "274": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "275": "Suspicious unused loop iteration variable"
+  },
+  {
+    "276": "'import *' may pollute namespace"
+  },
+  {
+    "277": "Wrong name for an argument in a call"
+  },
+  {
+    "278": "Wrong number of arguments in a call"
+  },
+  {
+    "279": "Variable defined multiple times"
+  },
+  {
+    "280": "Misnamed class"
+  },
+  {
+    "281": "Suspicious unused loop iteration variable"
+  },
+  {
+    "282": "points-to fails for expression."
+  },
+  {
+    "283": "Interesting taint sinks"
+  },
+  {
+    "284": "Imprecise assert"
+  },
+  {
+    "285": "String concatenation in loop"
+  },
+  {
+    "286": "Redundant assignment"
+  },
+  {
+    "287": "Statement has no effect"
+  },
+  {
+    "288": "Type inference fails for 'object'"
+  },
+  {
+    "289": "Potentially uninitialized local variable"
+  },
+  {
+    "290": "points-to fails for expression."
+  },
+  {
+    "291": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "292": "Suspicious unused loop iteration variable"
+  },
+  {
+    "293": "Empty except"
+  },
+  {
+    "294": "Imprecise assert"
+  },
+  {
+    "295": "Request Handlers"
+  },
+  {
+    "296": "Call graph"
+  },
+  {
+    "297": "Implicit string concatenation in a list"
+  },
+  {
+    "298": "'import *' used"
+  },
+  {
+    "299": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "300": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "301": "Redundant assignment"
+  },
+  {
+    "302": "Imprecise assert"
+  },
+  {
+    "303": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "304": "Summarized callable call sites"
+  },
+  {
+    "305": "Testing equality to None"
+  },
+  {
+    "306": "NotImplemented is not an Exception"
+  },
+  {
+    "307": "Use of the return value of a procedure"
+  },
+  {
+    "308": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "309": "Unused global variable"
+  },
+  {
+    "310": "'exec' used"
+  },
+  {
+    "311": "points-to fails for expression."
+  },
+  {
+    "312": "Empty except"
+  },
+  {
+    "313": "Unused parameter"
+  },
+  {
+    "314": "points-to fails for expression."
+  },
+  {
+    "315": "Remote flow sources"
+  },
+  {
+    "316": "Unnecessary lambda"
+  },
+  {
+    "317": "Request Handlers"
+  },
+  {
+    "318": "Importing value of mutable attribute"
+  },
+  {
+    "319": "'exec' used"
+  },
+  {
+    "320": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "321": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "322": "Request without certificate validation"
+  },
+  {
+    "323": "Accepting unknown SSH host keys when using Paramiko"
+  },
+  {
+    "324": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "325": "Empty except"
+  },
+  {
+    "326": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "327": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "328": "Constant in conditional expression or statement"
+  },
+  {
+    "329": "Summarized callable call sites"
+  },
+  {
+    "330": "Interesting taint sinks"
+  },
+  {
+    "331": "Duplication in regular expression character class"
+  },
+  {
+    "332": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "333": "Wrong name for an argument in a call"
+  },
+  {
+    "334": "Wrong number of arguments in a call"
+  },
+  {
+    "335": "Unnecessary pass"
+  },
+  {
+    "336": "Request Handlers"
+  },
+  {
+    "337": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "338": "Unused parameter"
+  },
+  {
+    "339": "Unused parameter"
+  },
+  {
+    "340": "Duplication in regular expression character class"
+  },
+  {
+    "341": "Unused global variable"
+  },
+  {
+    "342": "Wrong number of arguments in a call"
+  },
+  {
+    "343": "First parameter of a method is not named 'self'"
+  },
+  {
+    "344": "'import *' may pollute namespace"
+  },
+  {
+    "345": "Remote flow sources"
+  },
+  {
+    "346": "Empty except"
+  },
+  {
+    "347": "Wrong name for an argument in a call"
+  },
+  {
+    "348": "'exec' used"
+  },
+  {
+    "349": "Imprecise assert"
+  },
+  {
+    "350": "Use of the return value of a procedure"
+  },
+  {
+    "351": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "352": "Unnecessary delete statement in function"
+  },
+  {
+    "353": "First parameter of a method is not named 'self'"
+  },
+  {
+    "354": "Summarized callable call sites"
+  },
+  {
+    "355": "points-to fails for expression."
+  },
+  {
+    "356": "Use of the return value of a procedure"
+  },
+  {
+    "357": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "358": "Suspicious unused loop iteration variable"
+  },
+  {
+    "359": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "360": "Use of the return value of a procedure"
+  },
+  {
+    "361": "Summarized callable call sites"
+  },
+  {
+    "362": "Taint sinks"
+  },
+  {
+    "363": "Weak hashes"
+  },
+  {
+    "364": "Use of 'global' at module level"
+  },
+  {
+    "365": "Unreachable code"
+  },
+  {
+    "366": "Implicit string concatenation in a list"
+  },
+  {
+    "367": "Builtin shadowed by local variable"
+  },
+  {
+    "368": "Testing equality to None"
+  },
+  {
+    "369": "String concatenation in loop"
+  },
+  {
+    "370": "Summarized callable call sites"
+  },
+  {
+    "371": "Taint sinks"
+  },
+  {
+    "372": "Unused import"
+  },
+  {
+    "373": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "374": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "375": "Unused global variable"
+  },
+  {
+    "376": "Flask app is run in debug mode"
+  },
+  {
+    "377": "Request without certificate validation"
+  },
+  {
+    "378": "Misnamed class"
+  },
+  {
+    "379": "Potentially uninitialized local variable"
+  },
+  {
+    "380": "Testing equality to None"
+  },
+  {
+    "381": "Module is imported more than once"
+  },
+  {
+    "382": "Class should be a context manager"
+  },
+  {
+    "383": "Class should be a context manager"
+  },
+  {
+    "384": "String concatenation in loop"
+  },
+  {
+    "385": "Implicit string concatenation in a list"
+  },
+  {
+    "386": "Module is imported more than once"
+  },
+  {
+    "387": "Statement has no effect"
+  },
+  {
+    "388": "points-to fails for expression."
+  },
+  {
+    "389": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "390": "Constant in conditional expression or statement"
+  },
+  {
+    "391": "Type inference fails for 'object'"
+  },
+  {
+    "392": "Weak hashes"
+  },
+  {
+    "393": "Testing equality to None"
+  },
+  {
+    "394": "Potentially uninitialized local variable"
+  },
+  {
+    "395": "'exec' used"
+  },
+  {
+    "396": "Type inference fails for 'object'"
+  },
+  {
+    "397": "Flask app is run in debug mode"
+  },
+  {
+    "398": "'import *' may pollute namespace"
+  },
+  {
+    "399": "Unused import"
+  },
+  {
+    "400": "Variable defined multiple times"
+  },
+  {
+    "401": "Unnecessary pass"
+  },
+  {
+    "402": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "403": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "404": "C-style condition"
+  },
+  {
+    "405": "Builtin shadowed by local variable"
+  },
+  {
+    "406": "Request without certificate validation"
+  },
+  {
+    "407": "Potentially uninitialized local variable"
+  },
+  {
+    "408": "Misnamed class"
+  },
+  {
+    "409": "Request without certificate validation"
+  },
+  {
+    "410": "First parameter of a method is not named 'self'"
+  },
+  {
+    "411": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "412": "Importing value of mutable attribute"
+  },
+  {
+    "413": "Interesting taint sinks"
+  },
+  {
+    "414": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "415": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "416": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "417": "String concatenation in loop"
+  },
+  {
+    "418": "Unnecessary pass"
+  },
+  {
+    "419": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "420": "Remote flow sources"
+  },
+  {
+    "421": "Use of the return value of a procedure"
+  },
+  {
+    "422": "Variable defined multiple times"
+  },
+  {
+    "423": "Suspicious unused loop iteration variable"
+  },
+  {
+    "424": "Redundant comparison"
+  },
+  {
+    "425": "Suspicious unused loop iteration variable"
+  },
+  {
+    "426": "First parameter of a method is not named 'self'"
+  },
+  {
+    "427": "Overly permissive regular expression range"
+  },
+  {
+    "428": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "429": "Type inference fails for 'object'"
+  },
+  {
+    "430": "Misnamed class"
+  },
+  {
+    "431": "Variable defined multiple times"
+  },
+  {
+    "432": "C-style condition"
+  },
+  {
+    "433": "Use of the 'global' statement."
+  },
+  {
+    "434": "Constant in conditional expression or statement"
+  },
+  {
+    "435": "Wrong number of arguments in a call"
+  },
+  {
+    "436": "Call graph"
+  },
+  {
+    "437": "Statement has no effect"
+  },
+  {
+    "438": "Constant in conditional expression or statement"
+  },
+  {
+    "439": "C-style condition"
+  },
+  {
+    "440": "Summarized callable call sites"
+  },
+  {
+    "441": "'import *' used"
+  },
+  {
+    "442": "Builtin shadowed by local variable"
+  },
+  {
+    "443": "Type inference fails for 'object'"
+  },
+  {
+    "444": "NotImplemented is not an Exception"
+  },
+  {
+    "445": "Unused import"
+  },
+  {
+    "446": "C-style condition"
+  },
+  {
+    "447": "Unnecessary pass"
+  },
+  {
+    "448": "Unused parameter"
+  },
+  {
+    "449": "Ignored return value"
+  },
+  {
+    "450": "Use of the return value of a procedure"
+  },
+  {
+    "451": "'import *' may pollute namespace"
+  },
+  {
+    "452": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "453": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "454": "Builtin shadowed by local variable"
+  },
+  {
+    "455": "Ignored return value"
+  },
+  {
+    "456": "Use of the 'global' statement."
+  },
+  {
+    "457": "Weak hashes"
+  },
+  {
+    "458": "Type inference fails for 'object'"
+  },
+  {
+    "459": "Interesting taint sinks"
+  },
+  {
+    "460": "Weak hashes"
+  },
+  {
+    "461": "Summarized callable call sites"
+  },
+  {
+    "462": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "463": "Unnecessary lambda"
+  },
+  {
+    "464": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "465": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "466": "Unused import"
+  },
+  {
+    "467": "Redundant assignment"
+  },
+  {
+    "468": "Potentially uninitialized local variable"
+  },
+  {
+    "469": "Potentially uninitialized local variable"
+  },
+  {
+    "470": "Variable defined multiple times"
+  },
+  {
+    "471": "Unused import"
+  },
+  {
+    "472": "Flask app is run in debug mode"
+  },
+  {
+    "473": "'import *' may pollute namespace"
+  },
+  {
+    "474": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "475": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "476": "Unused global variable"
+  },
+  {
+    "477": "Constant in conditional expression or statement"
+  },
+  {
+    "478": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "479": "Accepting unknown SSH host keys when using Paramiko"
+  },
+  {
+    "480": "Unreachable code"
+  },
+  {
+    "481": "Potentially uninitialized local variable"
+  },
+  {
+    "482": "Unused import"
+  },
+  {
+    "483": "Builtin shadowed by local variable"
+  },
+  {
+    "484": "Builtin shadowed by local variable"
+  },
+  {
+    "485": "Weak hashes"
+  },
+  {
+    "486": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "487": "Imprecise assert"
+  },
+  {
+    "488": "Importing value of mutable attribute"
+  },
+  {
+    "489": "Use of the 'global' statement."
+  },
+  {
+    "490": "Remote flow sources"
+  },
+  {
+    "491": "Empty except"
+  },
+  {
+    "492": "Interesting taint sinks"
+  },
+  {
+    "493": "Use of the return value of a procedure"
+  },
+  {
+    "494": "Use of the return value of a procedure"
+  },
+  {
+    "495": "Unnecessary pass"
+  },
+  {
+    "496": "Unnecessary lambda"
+  },
+  {
+    "497": "Call graph"
+  },
+  {
+    "498": "Unused parameter"
+  },
+  {
+    "499": "Use of the return value of a procedure"
+  },
+  {
+    "500": "Unnecessary pass"
+  },
+  {
+    "501": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "502": "Type inference fails for 'object'"
+  },
+  {
+    "503": "Request Handlers"
+  },
+  {
+    "504": "Builtin shadowed by local variable"
+  },
+  {
+    "505": "Request without certificate validation"
+  },
+  {
+    "506": "Binding a socket to all network interfaces"
+  },
+  {
+    "507": "C-style condition"
+  },
+  {
+    "508": "'exec' used"
+  },
+  {
+    "509": "Builtin shadowed by local variable"
+  },
+  {
+    "510": "Request Handlers"
+  },
+  {
+    "511": "Call graph"
+  },
+  {
+    "512": "String concatenation in loop"
+  },
+  {
+    "513": "Unused global variable"
+  },
+  {
+    "514": "Redundant assignment"
+  },
+  {
+    "515": "Unnecessary pass"
+  },
+  {
+    "516": "First argument to super() is not enclosing class"
+  },
+  {
+    "517": "Remote flow sources"
+  },
+  {
+    "518": "Unused parameter"
+  },
+  {
+    "519": "Weak hashes"
+  },
+  {
+    "520": "Request Handlers"
+  },
+  {
+    "521": "Comparison using is when operands support `__eq__`"
+  },
+  {
+    "522": "points-to fails for expression."
+  },
+  {
+    "523": "Statement has no effect"
+  },
+  {
+    "524": "Testing equality to None"
+  },
+  {
+    "525": "Duplication in regular expression character class"
+  },
+  {
+    "526": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "527": "Testing equality to None"
+  },
+  {
+    "528": "Class should be a context manager"
+  },
+  {
+    "529": "Variable defined multiple times"
+  },
+  {
+    "530": "Potentially uninitialized local variable"
+  },
+  {
+    "531": "C-style condition"
+  },
+  {
+    "532": "Statement has no effect"
+  },
+  {
+    "533": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "534": "Interesting taint sinks"
+  },
+  {
+    "535": "points-to fails for expression."
+  },
+  {
+    "536": "Unreachable code"
+  },
+  {
+    "537": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "538": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "539": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "540": "Interesting taint sinks"
+  },
+  {
+    "541": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "542": "Request without certificate validation"
+  },
+  {
+    "543": "Implicit string concatenation in a list"
+  },
+  {
+    "544": "Type inference fails for 'object'"
+  },
+  {
+    "545": "Unused import"
+  },
+  {
+    "546": "Testing equality to None"
+  },
+  {
+    "547": "Imprecise assert"
+  },
+  {
+    "548": "Suspicious unused loop iteration variable"
+  },
+  {
+    "549": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "550": "Ignored return value"
+  },
+  {
+    "551": "Statement has no effect"
+  },
+  {
+    "552": "Unnecessary delete statement in function"
+  },
+  {
+    "553": "Testing equality to None"
+  },
+  {
+    "554": "Ignored return value"
+  },
+  {
+    "555": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "556": "Imprecise assert"
+  },
+  {
+    "557": "Unreachable code"
+  },
+  {
+    "558": "Ignored return value"
+  },
+  {
+    "559": "Default version of SSL/TLS may be insecure"
+  },
+  {
+    "560": "Empty except"
+  },
+  {
+    "561": "Imprecise assert"
+  },
+  {
+    "562": "Unused parameter"
+  },
+  {
+    "563": "Call graph"
+  },
+  {
+    "564": "'import *' may pollute namespace"
+  },
+  {
+    "565": "Redundant assignment"
+  },
+  {
+    "566": "Use of the return value of a procedure"
+  },
+  {
+    "567": "Unnecessary lambda"
+  },
+  {
+    "568": "Binding a socket to all network interfaces"
+  },
+  {
+    "569": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "570": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "571": "Summarized callable call sites"
+  },
+  {
+    "572": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "573": "Class should be a context manager"
+  },
+  {
+    "574": "Type inference fails for 'object'"
+  },
+  {
+    "575": "Statement has no effect"
+  },
+  {
+    "576": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "577": "Remote flow sources"
+  },
+  {
+    "578": "Unreachable code"
+  },
+  {
+    "579": "Misnamed class"
+  },
+  {
+    "580": "Remote flow sources"
+  },
+  {
+    "581": "Unnecessary lambda"
+  },
+  {
+    "582": "Implicit string concatenation in a list"
+  },
+  {
+    "583": "Remote flow sources"
+  },
+  {
+    "584": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "585": "Module is imported more than once"
+  },
+  {
+    "586": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "587": "Redundant assignment"
+  },
+  {
+    "588": "Interesting taint sinks"
+  },
+  {
+    "589": "C-style condition"
+  },
+  {
+    "590": "Ignored return value"
+  },
+  {
+    "591": "Use of the return value of a procedure"
+  },
+  {
+    "592": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "593": "Taint sinks"
+  },
+  {
+    "594": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "595": "Unused import"
+  },
+  {
+    "596": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "597": "Unused parameter"
+  },
+  {
+    "598": "Interesting taint sinks"
+  },
+  {
+    "599": "Remote flow sources"
+  },
+  {
+    "600": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "601": "Request Handlers"
+  },
+  {
+    "602": "C-style condition"
+  },
+  {
+    "603": "Empty except"
+  },
+  {
+    "604": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "605": "Module is imported more than once"
+  },
+  {
+    "606": "points-to fails for expression."
+  },
+  {
+    "607": "Potentially uninitialized local variable"
+  },
+  {
+    "608": "Use of the return value of a procedure"
+  },
+  {
+    "609": "Use of the 'global' statement."
+  },
+  {
+    "610": "Remote flow sources"
+  },
+  {
+    "611": "First parameter of a method is not named 'self'"
+  },
+  {
+    "612": "Remote flow sources"
+  },
+  {
+    "613": "Unused parameter"
+  },
+  {
+    "614": "Non-callable called"
+  },
+  {
+    "615": "Use of the 'global' statement."
+  },
+  {
+    "616": "Potentially uninitialized local variable"
+  },
+  {
+    "617": "Request without certificate validation"
+  },
+  {
+    "618": "Wrong name for an argument in a call"
+  },
+  {
+    "619": "Wrong name for an argument in a call"
+  },
+  {
+    "620": "Ignored return value"
+  },
+  {
+    "621": "Builtin shadowed by local variable"
+  },
+  {
+    "622": "First argument to super() is not enclosing class"
+  },
+  {
+    "623": "'import *' may pollute namespace"
+  },
+  {
+    "624": "'import *' used"
+  },
+  {
+    "625": "Imprecise assert"
+  },
+  {
+    "626": "Use of the 'global' statement."
+  },
+  {
+    "627": "Builtin shadowed by local variable"
+  },
+  {
+    "628": "Suspicious unused loop iteration variable"
+  },
+  {
+    "629": "'exec' used"
+  },
+  {
+    "630": "Use of insecure SSL/TLS version"
+  },
+  {
+    "631": "Statement has no effect"
+  },
+  {
+    "632": "Unnecessary lambda"
+  },
+  {
+    "633": "Unreachable code"
+  },
+  {
+    "634": "`__init__` method returns a value"
+  },
+  {
+    "635": "Summarized callable call sites"
+  },
+  {
+    "636": "'import *' used"
+  },
+  {
+    "637": "Request Handlers"
+  },
+  {
+    "638": "Imprecise assert"
+  },
+  {
+    "639": "String concatenation in loop"
+  },
+  {
+    "640": "Module is imported more than once"
+  },
+  {
+    "641": "Remote flow sources"
+  },
+  {
+    "642": "Unnecessary pass"
+  },
+  {
+    "643": "Importing value of mutable attribute"
+  },
+  {
+    "644": "Unnecessary delete statement in function"
+  },
+  {
+    "645": "Unreachable code"
+  },
+  {
+    "646": "Variable defined multiple times"
+  },
+  {
+    "647": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "648": "String concatenation in loop"
+  },
+  {
+    "649": "Weak hashes"
+  },
+  {
+    "650": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "651": "Misnamed class"
+  },
+  {
+    "652": "Importing value of mutable attribute"
+  },
+  {
+    "653": "Empty except"
+  },
+  {
+    "654": "'exec' used"
+  },
+  {
+    "655": "Weak hashes"
+  },
+  {
+    "656": "Misnamed class"
+  },
+  {
+    "657": "Unused global variable"
+  },
+  {
+    "658": "Incomplete URL substring sanitization"
+  },
+  {
+    "659": "Unused parameter"
+  },
+  {
+    "660": "Suspicious unused loop iteration variable"
+  },
+  {
+    "661": "Builtin shadowed by local variable"
+  },
+  {
+    "662": "Interesting taint sinks"
+  },
+  {
+    "663": "points-to fails for expression."
+  },
+  {
+    "664": "Taint sinks"
+  },
+  {
+    "665": "Unused parameter"
+  },
+  {
+    "666": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "667": "Redundant comparison"
+  },
+  {
+    "668": "Redundant assignment"
+  },
+  {
+    "669": "Empty except"
+  },
+  {
+    "670": "First parameter of a method is not named 'self'"
+  },
+  {
+    "671": "First parameter of a method is not named 'self'"
+  },
+  {
+    "672": "Wrong number of arguments in a call"
+  },
+  {
+    "673": "Taint sinks"
+  },
+  {
+    "674": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "675": "Suspicious unused loop iteration variable"
+  },
+  {
+    "676": "'import *' may pollute namespace"
+  },
+  {
+    "677": "Wrong name for an argument in a call"
+  },
+  {
+    "678": "Wrong number of arguments in a call"
+  },
+  {
+    "679": "Variable defined multiple times"
+  },
+  {
+    "680": "Misnamed class"
+  },
+  {
+    "681": "Suspicious unused loop iteration variable"
+  },
+  {
+    "682": "points-to fails for expression."
+  },
+  {
+    "683": "Interesting taint sinks"
+  },
+  {
+    "684": "Imprecise assert"
+  },
+  {
+    "685": "String concatenation in loop"
+  },
+  {
+    "686": "Redundant assignment"
+  },
+  {
+    "687": "Statement has no effect"
+  },
+  {
+    "688": "Type inference fails for 'object'"
+  },
+  {
+    "689": "Potentially uninitialized local variable"
+  },
+  {
+    "690": "points-to fails for expression."
+  },
+  {
+    "691": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "692": "Suspicious unused loop iteration variable"
+  },
+  {
+    "693": "Empty except"
+  },
+  {
+    "694": "Imprecise assert"
+  },
+  {
+    "695": "Request Handlers"
+  },
+  {
+    "696": "Call graph"
+  },
+  {
+    "697": "Implicit string concatenation in a list"
+  },
+  {
+    "698": "'import *' used"
+  },
+  {
+    "699": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "700": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "701": "Redundant assignment"
+  },
+  {
+    "702": "Imprecise assert"
+  },
+  {
+    "703": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "704": "Summarized callable call sites"
+  },
+  {
+    "705": "Testing equality to None"
+  },
+  {
+    "706": "NotImplemented is not an Exception"
+  },
+  {
+    "707": "Use of the return value of a procedure"
+  },
+  {
+    "708": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "709": "Unused global variable"
+  },
+  {
+    "710": "'exec' used"
+  },
+  {
+    "711": "points-to fails for expression."
+  },
+  {
+    "712": "Empty except"
+  },
+  {
+    "713": "Unused parameter"
+  },
+  {
+    "714": "points-to fails for expression."
+  },
+  {
+    "715": "Remote flow sources"
+  },
+  {
+    "716": "Unnecessary lambda"
+  },
+  {
+    "717": "Request Handlers"
+  },
+  {
+    "718": "Importing value of mutable attribute"
+  },
+  {
+    "719": "'exec' used"
+  },
+  {
+    "720": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "721": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "722": "Request without certificate validation"
+  },
+  {
+    "723": "Accepting unknown SSH host keys when using Paramiko"
+  },
+  {
+    "724": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "725": "Empty except"
+  },
+  {
+    "726": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "727": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "728": "Constant in conditional expression or statement"
+  },
+  {
+    "729": "Summarized callable call sites"
+  },
+  {
+    "730": "Interesting taint sinks"
+  },
+  {
+    "731": "Duplication in regular expression character class"
+  },
+  {
+    "732": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "733": "Wrong name for an argument in a call"
+  },
+  {
+    "734": "Wrong number of arguments in a call"
+  },
+  {
+    "735": "Unnecessary pass"
+  },
+  {
+    "736": "Request Handlers"
+  },
+  {
+    "737": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "738": "Unused parameter"
+  },
+  {
+    "739": "Unused parameter"
+  },
+  {
+    "740": "Duplication in regular expression character class"
+  },
+  {
+    "741": "Unused global variable"
+  },
+  {
+    "742": "Wrong number of arguments in a call"
+  },
+  {
+    "743": "First parameter of a method is not named 'self'"
+  },
+  {
+    "744": "'import *' may pollute namespace"
+  },
+  {
+    "745": "Remote flow sources"
+  },
+  {
+    "746": "Empty except"
+  },
+  {
+    "747": "Wrong name for an argument in a call"
+  },
+  {
+    "748": "'exec' used"
+  },
+  {
+    "749": "Imprecise assert"
+  },
+  {
+    "750": "Use of the return value of a procedure"
+  },
+  {
+    "751": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "752": "Unnecessary delete statement in function"
+  },
+  {
+    "753": "First parameter of a method is not named 'self'"
+  },
+  {
+    "754": "Summarized callable call sites"
+  },
+  {
+    "755": "points-to fails for expression."
+  },
+  {
+    "756": "Use of the return value of a procedure"
+  },
+  {
+    "757": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "758": "Suspicious unused loop iteration variable"
+  },
+  {
+    "759": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "760": "Use of the return value of a procedure"
+  },
+  {
+    "761": "Summarized callable call sites"
+  },
+  {
+    "762": "Taint sinks"
+  },
+  {
+    "763": "Weak hashes"
+  },
+  {
+    "764": "Use of 'global' at module level"
+  },
+  {
+    "765": "Unreachable code"
+  },
+  {
+    "766": "Implicit string concatenation in a list"
+  },
+  {
+    "767": "Builtin shadowed by local variable"
+  },
+  {
+    "768": "Testing equality to None"
+  },
+  {
+    "769": "String concatenation in loop"
+  },
+  {
+    "770": "Summarized callable call sites"
+  },
+  {
+    "771": "Taint sinks"
+  },
+  {
+    "772": "Unused import"
+  },
+  {
+    "773": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "774": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "775": "Unused global variable"
+  },
+  {
+    "776": "Flask app is run in debug mode"
+  },
+  {
+    "777": "Request without certificate validation"
+  },
+  {
+    "778": "Misnamed class"
+  },
+  {
+    "779": "Potentially uninitialized local variable"
+  },
+  {
+    "780": "Testing equality to None"
+  },
+  {
+    "781": "Module is imported more than once"
+  },
+  {
+    "782": "Class should be a context manager"
+  },
+  {
+    "783": "Class should be a context manager"
+  },
+  {
+    "784": "String concatenation in loop"
+  },
+  {
+    "785": "Implicit string concatenation in a list"
+  },
+  {
+    "786": "Module is imported more than once"
+  },
+  {
+    "787": "Statement has no effect"
+  },
+  {
+    "788": "points-to fails for expression."
+  },
+  {
+    "789": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "790": "Constant in conditional expression or statement"
+  },
+  {
+    "791": "Type inference fails for 'object'"
+  },
+  {
+    "792": "Weak hashes"
+  },
+  {
+    "793": "Testing equality to None"
+  },
+  {
+    "794": "Potentially uninitialized local variable"
+  },
+  {
+    "795": "'exec' used"
+  },
+  {
+    "796": "Type inference fails for 'object'"
+  },
+  {
+    "797": "Flask app is run in debug mode"
+  },
+  {
+    "798": "'import *' may pollute namespace"
+  },
+  {
+    "799": "Unused import"
+  },
+  {
+    "800": "Variable defined multiple times"
+  },
+  {
+    "801": "Unnecessary pass"
+  },
+  {
+    "802": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "803": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "804": "C-style condition"
+  },
+  {
+    "805": "Builtin shadowed by local variable"
+  },
+  {
+    "806": "Request without certificate validation"
+  },
+  {
+    "807": "Potentially uninitialized local variable"
+  },
+  {
+    "808": "Misnamed class"
+  },
+  {
+    "809": "Request without certificate validation"
+  },
+  {
+    "810": "First parameter of a method is not named 'self'"
+  },
+  {
+    "811": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "812": "Importing value of mutable attribute"
+  },
+  {
+    "813": "Interesting taint sinks"
+  },
+  {
+    "814": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "815": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "816": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "817": "String concatenation in loop"
+  },
+  {
+    "818": "Unnecessary pass"
+  },
+  {
+    "819": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "820": "Remote flow sources"
+  },
+  {
+    "821": "Use of the return value of a procedure"
+  },
+  {
+    "822": "Variable defined multiple times"
+  },
+  {
+    "823": "Suspicious unused loop iteration variable"
+  },
+  {
+    "824": "Redundant comparison"
+  },
+  {
+    "825": "Suspicious unused loop iteration variable"
+  },
+  {
+    "826": "First parameter of a method is not named 'self'"
+  },
+  {
+    "827": "Overly permissive regular expression range"
+  },
+  {
+    "828": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "829": "Type inference fails for 'object'"
+  },
+  {
+    "830": "Misnamed class"
+  },
+  {
+    "831": "Variable defined multiple times"
+  },
+  {
+    "832": "C-style condition"
+  },
+  {
+    "833": "Use of the 'global' statement."
+  },
+  {
+    "834": "Constant in conditional expression or statement"
+  },
+  {
+    "835": "Wrong number of arguments in a call"
+  },
+  {
+    "836": "Call graph"
+  },
+  {
+    "837": "Statement has no effect"
+  },
+  {
+    "838": "Constant in conditional expression or statement"
+  },
+  {
+    "839": "C-style condition"
+  },
+  {
+    "840": "Summarized callable call sites"
+  },
+  {
+    "841": "'import *' used"
+  },
+  {
+    "842": "Builtin shadowed by local variable"
+  },
+  {
+    "843": "Type inference fails for 'object'"
+  },
+  {
+    "844": "NotImplemented is not an Exception"
+  },
+  {
+    "845": "Unused import"
+  },
+  {
+    "846": "C-style condition"
+  },
+  {
+    "847": "Unnecessary pass"
+  },
+  {
+    "848": "Unused parameter"
+  },
+  {
+    "849": "Ignored return value"
+  },
+  {
+    "850": "Use of the return value of a procedure"
+  },
+  {
+    "851": "'import *' may pollute namespace"
+  },
+  {
+    "852": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "853": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "854": "Builtin shadowed by local variable"
+  },
+  {
+    "855": "Ignored return value"
+  },
+  {
+    "856": "Use of the 'global' statement."
+  },
+  {
+    "857": "Weak hashes"
+  },
+  {
+    "858": "Type inference fails for 'object'"
+  },
+  {
+    "859": "Interesting taint sinks"
+  },
+  {
+    "860": "Weak hashes"
+  },
+  {
+    "861": "Summarized callable call sites"
+  },
+  {
+    "862": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "863": "Unnecessary lambda"
+  },
+  {
+    "864": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "865": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "866": "Unused import"
+  },
+  {
+    "867": "Redundant assignment"
+  },
+  {
+    "868": "Potentially uninitialized local variable"
+  },
+  {
+    "869": "Potentially uninitialized local variable"
+  },
+  {
+    "870": "Variable defined multiple times"
+  },
+  {
+    "871": "Unused import"
+  },
+  {
+    "872": "Flask app is run in debug mode"
+  },
+  {
+    "873": "'import *' may pollute namespace"
+  },
+  {
+    "874": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "875": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "876": "Unused global variable"
+  },
+  {
+    "877": "Constant in conditional expression or statement"
+  },
+  {
+    "878": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "879": "Accepting unknown SSH host keys when using Paramiko"
+  },
+  {
+    "880": "Unreachable code"
+  },
+  {
+    "881": "Potentially uninitialized local variable"
+  },
+  {
+    "882": "Unused import"
+  },
+  {
+    "883": "Builtin shadowed by local variable"
+  },
+  {
+    "884": "Builtin shadowed by local variable"
+  },
+  {
+    "885": "Weak hashes"
+  },
+  {
+    "886": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "887": "Imprecise assert"
+  },
+  {
+    "888": "Importing value of mutable attribute"
+  },
+  {
+    "889": "Use of the 'global' statement."
+  },
+  {
+    "890": "Remote flow sources"
+  },
+  {
+    "891": "Empty except"
+  },
+  {
+    "892": "Interesting taint sinks"
+  },
+  {
+    "893": "Use of the return value of a procedure"
+  },
+  {
+    "894": "Use of the return value of a procedure"
+  },
+  {
+    "895": "Unnecessary pass"
+  },
+  {
+    "896": "Unnecessary lambda"
+  },
+  {
+    "897": "Call graph"
+  },
+  {
+    "898": "Unused parameter"
+  },
+  {
+    "899": "Use of the return value of a procedure"
+  },
+  {
+    "900": "Unnecessary pass"
+  },
+  {
+    "901": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "902": "Type inference fails for 'object'"
+  },
+  {
+    "903": "Request Handlers"
+  },
+  {
+    "904": "Builtin shadowed by local variable"
+  },
+  {
+    "905": "Request without certificate validation"
+  },
+  {
+    "906": "Binding a socket to all network interfaces"
+  },
+  {
+    "907": "C-style condition"
+  },
+  {
+    "908": "'exec' used"
+  },
+  {
+    "909": "Builtin shadowed by local variable"
+  },
+  {
+    "910": "Request Handlers"
+  },
+  {
+    "911": "Call graph"
+  },
+  {
+    "912": "String concatenation in loop"
+  },
+  {
+    "913": "Unused global variable"
+  },
+  {
+    "914": "Redundant assignment"
+  },
+  {
+    "915": "Unnecessary pass"
+  },
+  {
+    "916": "First argument to super() is not enclosing class"
+  },
+  {
+    "917": "Remote flow sources"
+  },
+  {
+    "918": "Unused parameter"
+  },
+  {
+    "919": "Weak hashes"
+  },
+  {
+    "920": "Request Handlers"
+  },
+  {
+    "921": "Comparison using is when operands support `__eq__`"
+  },
+  {
+    "922": "points-to fails for expression."
+  },
+  {
+    "923": "Statement has no effect"
+  },
+  {
+    "924": "Testing equality to None"
+  },
+  {
+    "925": "Duplication in regular expression character class"
+  },
+  {
+    "926": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "927": "Testing equality to None"
+  },
+  {
+    "928": "Class should be a context manager"
+  },
+  {
+    "929": "Variable defined multiple times"
+  },
+  {
+    "930": "Potentially uninitialized local variable"
+  },
+  {
+    "931": "C-style condition"
+  },
+  {
+    "932": "Statement has no effect"
+  },
+  {
+    "933": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "934": "Interesting taint sinks"
+  },
+  {
+    "935": "points-to fails for expression."
+  },
+  {
+    "936": "Unreachable code"
+  },
+  {
+    "937": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "938": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "939": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "940": "Interesting taint sinks"
+  },
+  {
+    "941": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "942": "Request without certificate validation"
+  },
+  {
+    "943": "Implicit string concatenation in a list"
+  },
+  {
+    "944": "Type inference fails for 'object'"
+  },
+  {
+    "945": "Unused import"
+  },
+  {
+    "946": "Testing equality to None"
+  },
+  {
+    "947": "Imprecise assert"
+  },
+  {
+    "948": "Suspicious unused loop iteration variable"
+  },
+  {
+    "949": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "950": "Ignored return value"
+  },
+  {
+    "951": "Statement has no effect"
+  },
+  {
+    "952": "Unnecessary delete statement in function"
+  },
+  {
+    "953": "Testing equality to None"
+  },
+  {
+    "954": "Ignored return value"
+  },
+  {
+    "955": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "956": "Imprecise assert"
+  },
+  {
+    "957": "Unreachable code"
+  },
+  {
+    "958": "Ignored return value"
+  },
+  {
+    "959": "Default version of SSL/TLS may be insecure"
+  },
+  {
+    "960": "Empty except"
+  },
+  {
+    "961": "Imprecise assert"
+  },
+  {
+    "962": "Unused parameter"
+  },
+  {
+    "963": "Call graph"
+  },
+  {
+    "964": "'import *' may pollute namespace"
+  },
+  {
+    "965": "Redundant assignment"
+  },
+  {
+    "966": "Use of the return value of a procedure"
+  },
+  {
+    "967": "Unnecessary lambda"
+  },
+  {
+    "968": "Binding a socket to all network interfaces"
+  },
+  {
+    "969": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "970": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "971": "Summarized callable call sites"
+  },
+  {
+    "972": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "973": "Class should be a context manager"
+  },
+  {
+    "974": "Type inference fails for 'object'"
+  },
+  {
+    "975": "Statement has no effect"
+  },
+  {
+    "976": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "977": "Remote flow sources"
+  },
+  {
+    "978": "Unreachable code"
+  },
+  {
+    "979": "Misnamed class"
+  },
+  {
+    "980": "Remote flow sources"
+  },
+  {
+    "981": "Unnecessary lambda"
+  },
+  {
+    "982": "Implicit string concatenation in a list"
+  },
+  {
+    "983": "Remote flow sources"
+  },
+  {
+    "984": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "985": "Module is imported more than once"
+  },
+  {
+    "986": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "987": "Redundant assignment"
+  },
+  {
+    "988": "Interesting taint sinks"
+  },
+  {
+    "989": "C-style condition"
+  },
+  {
+    "990": "Ignored return value"
+  },
+  {
+    "991": "Use of the return value of a procedure"
+  },
+  {
+    "992": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "993": "Taint sinks"
+  },
+  {
+    "994": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "995": "Unused import"
+  },
+  {
+    "996": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "997": "Unused parameter"
+  },
+  {
+    "998": "Interesting taint sinks"
+  },
+  {
+    "999": "Remote flow sources"
+  },
+  {
+    "1000": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "1001": "Request Handlers"
+  },
+  {
+    "1002": "C-style condition"
+  },
+  {
+    "1003": "Empty except"
+  },
+  {
+    "1004": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "1005": "Module is imported more than once"
+  },
+  {
+    "1006": "points-to fails for expression."
+  },
+  {
+    "1007": "Potentially uninitialized local variable"
+  },
+  {
+    "1008": "Use of the return value of a procedure"
+  },
+  {
+    "1009": "Use of the 'global' statement."
+  },
+  {
+    "1010": "Remote flow sources"
+  },
+  {
+    "1011": "First parameter of a method is not named 'self'"
+  },
+  {
+    "1012": "Remote flow sources"
+  },
+  {
+    "1013": "Unused parameter"
+  },
+  {
+    "1014": "Non-callable called"
+  },
+  {
+    "1015": "Use of the 'global' statement."
+  },
+  {
+    "1016": "Potentially uninitialized local variable"
+  },
+  {
+    "1017": "Request without certificate validation"
+  },
+  {
+    "1018": "Wrong name for an argument in a call"
+  },
+  {
+    "1019": "Wrong name for an argument in a call"
+  },
+  {
+    "1020": "Ignored return value"
+  },
+  {
+    "1021": "Builtin shadowed by local variable"
+  },
+  {
+    "1022": "First argument to super() is not enclosing class"
+  },
+  {
+    "1023": "'import *' may pollute namespace"
+  },
+  {
+    "1024": "'import *' used"
+  },
+  {
+    "1025": "Imprecise assert"
+  },
+  {
+    "1026": "Use of the 'global' statement."
+  },
+  {
+    "1027": "Builtin shadowed by local variable"
+  },
+  {
+    "1028": "Suspicious unused loop iteration variable"
+  },
+  {
+    "1029": "'exec' used"
+  },
+  {
+    "1030": "Use of insecure SSL/TLS version"
+  },
+  {
+    "1031": "Statement has no effect"
+  },
+  {
+    "1032": "Unnecessary lambda"
+  },
+  {
+    "1033": "Unreachable code"
+  },
+  {
+    "1034": "`__init__` method returns a value"
+  },
+  {
+    "1035": "Summarized callable call sites"
+  },
+  {
+    "1036": "'import *' used"
+  },
+  {
+    "1037": "Request Handlers"
+  },
+  {
+    "1038": "Imprecise assert"
+  },
+  {
+    "1039": "String concatenation in loop"
+  },
+  {
+    "1040": "Module is imported more than once"
+  },
+  {
+    "1041": "Remote flow sources"
+  },
+  {
+    "1042": "Unnecessary pass"
+  },
+  {
+    "1043": "Importing value of mutable attribute"
+  },
+  {
+    "1044": "Unnecessary delete statement in function"
+  },
+  {
+    "1045": "Unreachable code"
+  },
+  {
+    "1046": "Variable defined multiple times"
+  },
+  {
+    "1047": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "1048": "String concatenation in loop"
+  },
+  {
+    "1049": "Weak hashes"
+  },
+  {
+    "1050": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "1051": "Misnamed class"
+  },
+  {
+    "1052": "Importing value of mutable attribute"
+  },
+  {
+    "1053": "Empty except"
+  },
+  {
+    "1054": "'exec' used"
+  },
+  {
+    "1055": "Weak hashes"
+  },
+  {
+    "1056": "Misnamed class"
+  },
+  {
+    "1057": "Unused global variable"
+  },
+  {
+    "1058": "Incomplete URL substring sanitization"
+  },
+  {
+    "1059": "Unused parameter"
+  },
+  {
+    "1060": "Suspicious unused loop iteration variable"
+  },
+  {
+    "1061": "Builtin shadowed by local variable"
+  },
+  {
+    "1062": "Interesting taint sinks"
+  },
+  {
+    "1063": "points-to fails for expression."
+  },
+  {
+    "1064": "Taint sinks"
+  },
+  {
+    "1065": "Unused parameter"
+  },
+  {
+    "1066": "Assert statement tests the truth value of a literal constant"
+  },
+  {
+    "1067": "Redundant comparison"
+  },
+  {
+    "1068": "Redundant assignment"
+  },
+  {
+    "1069": "Empty except"
+  },
+  {
+    "1070": "First parameter of a method is not named 'self'"
+  },
+  {
+    "1071": "First parameter of a method is not named 'self'"
+  },
+  {
+    "1072": "Wrong number of arguments in a call"
+  },
+  {
+    "1073": "Taint sinks"
+  },
+  {
+    "1074": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "1075": "Suspicious unused loop iteration variable"
+  },
+  {
+    "1076": "'import *' may pollute namespace"
+  },
+  {
+    "1077": "Wrong name for an argument in a call"
+  },
+  {
+    "1078": "Wrong number of arguments in a call"
+  },
+  {
+    "1079": "Variable defined multiple times"
+  },
+  {
+    "1080": "Misnamed class"
+  },
+  {
+    "1081": "Suspicious unused loop iteration variable"
+  },
+  {
+    "1082": "points-to fails for expression."
+  },
+  {
+    "1083": "Interesting taint sinks"
+  },
+  {
+    "1084": "Imprecise assert"
+  },
+  {
+    "1085": "String concatenation in loop"
+  },
+  {
+    "1086": "Redundant assignment"
+  },
+  {
+    "1087": "Statement has no effect"
+  },
+  {
+    "1088": "Type inference fails for 'object'"
+  },
+  {
+    "1089": "Potentially uninitialized local variable"
+  },
+  {
+    "1090": "points-to fails for expression."
+  },
+  {
+    "1091": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "1092": "Suspicious unused loop iteration variable"
+  },
+  {
+    "1093": "Empty except"
+  },
+  {
+    "1094": "Imprecise assert"
+  },
+  {
+    "1095": "Request Handlers"
+  },
+  {
+    "1096": "Call graph"
+  },
+  {
+    "1097": "Implicit string concatenation in a list"
+  },
+  {
+    "1098": "'import *' used"
+  },
+  {
+    "1099": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "1100": "Jinja2 templating with autoescape=False"
+  },
+  {
+    "1101": "Redundant assignment"
+  },
+  {
+    "1102": "Imprecise assert"
+  },
+  {
+    "1103": "New call graph edge from using type-tracking instead of points-to, that is ambiguous"
+  },
+  {
+    "1104": "Summarized callable call sites"
+  },
+  {
+    "1105": "Testing equality to None"
+  },
+  {
+    "1106": "NotImplemented is not an Exception"
+  },
+  {
+    "1107": "Use of the return value of a procedure"
+  },
+  {
+    "1108": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "1109": "Unused global variable"
+  },
+  {
+    "1110": "'exec' used"
+  },
+  {
+    "1111": "points-to fails for expression."
+  },
+  {
+    "1112": "Empty except"
+  },
+  {
+    "1113": "Unused parameter"
+  },
+  {
+    "1114": "points-to fails for expression."
+  },
+  {
+    "1115": "Remote flow sources"
+  },
+  {
+    "1116": "Unnecessary lambda"
+  },
+  {
+    "1117": "Request Handlers"
+  },
+  {
+    "1118": "Importing value of mutable attribute"
+  },
+  {
+    "1119": "'exec' used"
+  },
+  {
+    "1120": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "1121": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "1122": "Request without certificate validation"
+  },
+  {
+    "1123": "Accepting unknown SSH host keys when using Paramiko"
+  },
+  {
+    "1124": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "1125": "Empty except"
+  },
+  {
+    "1126": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "1127": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "1128": "Constant in conditional expression or statement"
+  },
+  {
+    "1129": "Summarized callable call sites"
+  },
+  {
+    "1130": "Interesting taint sinks"
+  },
+  {
+    "1131": "Duplication in regular expression character class"
+  },
+  {
+    "1132": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "1133": "Wrong name for an argument in a call"
+  },
+  {
+    "1134": "Wrong number of arguments in a call"
+  },
+  {
+    "1135": "Unnecessary pass"
+  },
+  {
+    "1136": "Request Handlers"
+  },
+  {
+    "1137": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "1138": "Unused parameter"
+  },
+  {
+    "1139": "Unused parameter"
+  },
+  {
+    "1140": "Duplication in regular expression character class"
+  },
+  {
+    "1141": "Unused global variable"
+  },
+  {
+    "1142": "Wrong number of arguments in a call"
+  },
+  {
+    "1143": "First parameter of a method is not named 'self'"
+  },
+  {
+    "1144": "'import *' may pollute namespace"
+  },
+  {
+    "1145": "Remote flow sources"
+  },
+  {
+    "1146": "Empty except"
+  },
+  {
+    "1147": "Wrong name for an argument in a call"
+  },
+  {
+    "1148": "'exec' used"
+  },
+  {
+    "1149": "Imprecise assert"
+  },
+  {
+    "1150": "Use of the return value of a procedure"
+  },
+  {
+    "1151": "Module is imported with 'import' and 'import from'"
+  },
+  {
+    "1152": "Unnecessary delete statement in function"
+  },
+  {
+    "1153": "First parameter of a method is not named 'self'"
+  },
+  {
+    "1154": "Summarized callable call sites"
+  },
+  {
+    "1155": "points-to fails for expression."
+  },
+  {
+    "1156": "Use of the return value of a procedure"
+  },
+  {
+    "1157": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "1158": "Suspicious unused loop iteration variable"
+  },
+  {
+    "1159": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "1160": "Use of the return value of a procedure"
+  },
+  {
+    "1161": "Summarized callable call sites"
+  },
+  {
+    "1162": "Taint sinks"
+  },
+  {
+    "1163": "Weak hashes"
+  },
+  {
+    "1164": "Use of 'global' at module level"
+  },
+  {
+    "1165": "Unreachable code"
+  },
+  {
+    "1166": "Implicit string concatenation in a list"
+  },
+  {
+    "1167": "Builtin shadowed by local variable"
+  },
+  {
+    "1168": "Testing equality to None"
+  },
+  {
+    "1169": "String concatenation in loop"
+  },
+  {
+    "1170": "Summarized callable call sites"
+  },
+  {
+    "1171": "Taint sinks"
+  },
+  {
+    "1172": "Unused import"
+  },
+  {
+    "1173": "Inheritance hierarchy cannot be inferred for class"
+  },
+  {
+    "1174": "First parameter of a class method is not named 'cls'"
+  },
+  {
+    "1175": "Unused global variable"
+  },
+  {
+    "1176": "Flask app is run in debug mode"
+  },
+  {
+    "1177": "Request without certificate validation"
+  },
+  {
+    "1178": "Misnamed class"
+  },
+  {
+    "1179": "Potentially uninitialized local variable"
+  },
+  {
+    "1180": "Testing equality to None"
+  },
+  {
+    "1181": "Module is imported more than once"
+  },
+  {
+    "1182": "Class should be a context manager"
+  },
+  {
+    "1183": "Class should be a context manager"
+  },
+  {
+    "1184": "String concatenation in loop"
+  },
+  {
+    "1185": "Implicit string concatenation in a list"
+  },
+  {
+    "1186": "Module is imported more than once"
+  },
+  {
+    "1187": "Statement has no effect"
+  },
+  {
+    "1188": "points-to fails for expression."
+  },
+  {
+    "1189": "Shared call graph edge from using type-tracking instead of points-to"
+  },
+  {
+    "1190": "Constant in conditional expression or statement"
+  },
+  {
+    "1191": "Type inference fails for 'object'"
+  },
+  {
+    "1192": "Weak hashes"
+  },
+  {
+    "1193": "Testing equality to None"
+  },
+  {
+    "1194": "Potentially uninitialized local variable"
+  },
+  {
+    "1195": "'exec' used"
+  },
+  {
+    "1196": "Type inference fails for 'object'"
+  },
+  {
+    "1197": "Flask app is run in debug mode"
+  },
+  {
+    "1198": "'import *' may pollute namespace"
+  },
+  {
+    "1199": "Unused import"
+  }
+]

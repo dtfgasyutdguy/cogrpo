@@ -1,0 +1,1 @@
+# _base_ = './dino-4scale_r50_8xb2-12e_coco.py'

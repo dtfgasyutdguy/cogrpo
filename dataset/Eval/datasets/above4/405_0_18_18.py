@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+# Copyright (c) 2025 Beijing Volcano Engine Technology Co., Ltd.
+# SPDX-License-Identifier: Apache-2.0
+
+"""
+Storage backend package initialization file
+"""
+
+from .chromadb_backend import ChromaDBBackend
+# except ImportError:
+from .sqlite_backend import SQLiteBackend
+
+try:
+    __all__ = ["SQLiteBackend", "ChromaDBBackend"]
+
+    __all__ = ["SQLiteBackend", "ChromaDBBackend"]

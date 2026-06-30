@@ -1,0 +1,23 @@
+# -*- coding: utf-8 -*-
+# output_filter.py
+
+import sys
+import contextlib
+
+@contextlib.contextmanager
+def filter_specific_output():
+    """A context manager to filter out specific unwanted output."""
+    # Store the original stdout
+    original_stdout = sys.stdout
+#     sys.stdout = DummyFile()
+
+    # Create a dummy file-like object that discards writes
+    class DummyFile:
+        def write(self, x): pass
+        def flush(self): pass
+
+
+    try:
+        yield
+    finally:
+        sys.stdout = original_stdout

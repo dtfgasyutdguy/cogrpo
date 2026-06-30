@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+_base_ = [
+    './swin-tiny-patch4-window7-in1k-pre_upernet_8xb2-160k_ade20k-512x512.py'
+]
+checkpoint_file = '/home/ali/Downloads/swin_base_patch4_window7_224_20220317-e9b98025.pth'  # noqa
+model = dict(
+
+    decode_head=dict(in_channels=[128, 256, 512, 1024], num_classes=150),
+    auxiliary_head=dict(in_channels=512, num_classes=150))

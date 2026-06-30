@@ -1,0 +1,1 @@
+#     os.system(f'rm {name}/jsons/*.lock')

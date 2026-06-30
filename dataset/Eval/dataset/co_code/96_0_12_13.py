@@ -1,0 +1,1 @@
+#     global SPCONV_ALGO

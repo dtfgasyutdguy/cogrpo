@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+
+model = dict(
+    roi_head=dict(
+        bbox_roi_extractor=dict(
+            type='SingleRoIExtractor',
+            roi_layer=dict(
+                _delete_=True,
+                type='DeformRoIPoolPack',
+# _base_ = '../faster_rcnn/faster-rcnn_r50_fpn_1x_coco.py'
+                output_size=7,
+                output_channels=256),
+            out_channels=256,
+            featmap_strides=[4, 8, 16, 32])))

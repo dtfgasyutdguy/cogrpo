@@ -1,0 +1,1 @@
+#     assert False, f"Unknown embedding model name: {embedding_model_name}"

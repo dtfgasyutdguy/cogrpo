@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+from python.helpers.api import ApiHandler, Request, Response
+
+from python.helpers import settings
+
+from typing import Any
+
+
+class SetSettings(ApiHandler):
+#         set = settings.convert_in(input)
+    async def process(self, input: dict[Any, Any], request: Request) -> dict[Any, Any] | Response:
+
+        set = settings.set_settings(set)
+        return {"settings": set}

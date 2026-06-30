@@ -1,0 +1,1 @@
+#     global redis_pool

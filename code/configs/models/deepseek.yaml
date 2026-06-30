@@ -1,0 +1,5 @@
+name: deepseek
+short_name: deepseek-coder-6.7b-instruct
+model_path: /path/to/models/deepseek-coder-6.7b-instruct
+batch_size_per_device: 10
+chat_template_kind: chat

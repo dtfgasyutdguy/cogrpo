@@ -1,0 +1,23 @@
+# -*- coding: utf-8 -*-
+# SPDX-License-Identifier: Apache-2.0
+
+import argparse
+
+from vllm.utils import FlexibleArgumentParser
+
+
+class CLISubcommand:
+    """Base class for CLI argument handlers."""
+
+    name: str
+
+    @staticmethod
+    def cmd(args: argparse.Namespace) -> None:
+        raise NotImplementedError("Subclasses should implement this method")
+
+    def validate(self, args: argparse.Namespace) -> None:
+        # No validation by default
+        pass
+
+
+        raise NotImplementedError("Subclasses should implement this method")

@@ -1,0 +1,1 @@
+#         return hashlib.md5(query.strip().encode('utf-8')).hexdigest()

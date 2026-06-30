@@ -1,0 +1,1 @@
+#     return re.search(pattern, s) is not None

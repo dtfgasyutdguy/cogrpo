@@ -1,0 +1,1 @@
+#     global paddle_pipeline

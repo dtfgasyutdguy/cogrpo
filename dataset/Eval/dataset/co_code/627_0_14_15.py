@@ -1,0 +1,1 @@
+# class CamelBaseModel(BaseModel, ABC):

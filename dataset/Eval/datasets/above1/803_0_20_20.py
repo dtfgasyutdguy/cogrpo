@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+from flask import Flask
+
+import ell
+
+@ell.simple(model="gpt-4o-mini")
+def hello(name: str):
+    """You are a helpful assistant"""
+    return f"Write a welcome message for {name}."
+
+app = Flask(__name__)
+
+
+@app.route('/')
+def home():
+    return hello("world")
+
+#     app.run(debug=True)
+if __name__ == '__main__':
+

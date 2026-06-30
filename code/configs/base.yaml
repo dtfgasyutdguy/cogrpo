@@ -1,0 +1,105 @@
+# Base configuration for CO-GRPO training.
+
+# === Storage roots ===
+paths:
+  data_dir: /path/to/cogrpo/data
+  pairs_file: /path/to/cogrpo/data/pairs/train.jsonl
+  checkpoints_dir: /path/to/cogrpo/checkpoints
+  outputs_dir: /path/to/cogrpo/outputs
+  codeql_dbs_dir: /path/to/cogrpo/codeql_dbs
+  scan_results_dir: /path/to/cogrpo/scan_results
+  logs_dir: /path/to/cogrpo/logs
+  reports_dir: /path/to/cogrpo/reports
+  tmp_dir: /path/to/cogrpo/tmp
+  codeql_bin: /path/to/codeql/codeql
+  codeql_suite: /path/to/codeql/ql/python/ql/src/codeql-suites/python-security-all.qls
+
+# === LoRA / QLoRA ===
+lora:
+  rank: 4
+  alpha: 8
+  dropout: 0.05
+  target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - gate_proj
+    - up_proj
+    - down_proj
+
+# === Quantization ===
+quantization:
+  load_in_4bit: true
+  bnb_4bit_quant_type: nf4
+  bnb_4bit_use_double_quant: true
+  bnb_4bit_compute_dtype: float16
+
+# === Optimization ===
+optimization:
+  learning_rate: 1.0e-4
+  lr_scheduler_type: constant
+  num_train_epochs: 1
+  gradient_accumulation_steps: 2
+  fp16: true
+  gradient_checkpointing: false
+  seed: 42
+
+# === GRPO ===
+grpo:
+  num_generations: 4
+  max_prompt_length: 800
+  max_completion_length: 128
+  beta: 0.0
+  epsilon_clip: 0.2
+
+# === Reward shaping (CO-CR) ===
+reward:
+  codeql_match: 0.2
+  codeql_no_match: -0.2
+  comment_only_penalty: -0.5
+  trivial_code_penalty: -0.5
+  syntax_error_penalty: -0.3
+  high_comment_ratio_penalty: -0.3
+  beta_cocr: 2.0
+  short_token_threshold_1: 16
+  short_token_penalty_1: -0.2
+  short_token_threshold_2: 13
+  short_token_penalty_2: -0.2
+
+# === Decoding ===
+decoding:
+  greedy:
+    temperature: 0.0
+    max_tokens: 256
+    repeats: 1
+  low_t:
+    temperature: 0.2
+    top_p: 0.95
+    max_tokens: 256
+    repeats: 3
+  high_t:
+    temperature: 0.8
+    top_p: 0.95
+    max_tokens: 256
+    repeats: 3
+
+# === Test folders ===
+test_folders:
+  - above1
+  - above2
+  - above3
+  - above4
+  - above5
+  - above6
+  - above7
+  - above8
+  - below1
+  - below2
+  - below3
+  - below4
+  - below5
+  - below6
+  - below7
+  - below8
+  - blank

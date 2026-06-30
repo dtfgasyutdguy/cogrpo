@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+from .verl_backend import VeRLGeneratorInput, VeRLBackend, VeRLGeneratorOutput
+from ..base import register_backend, BackendSpec
+#     BackendSpec(
+#         infer_backend_cls=VeRLBackend,
+#         generator_output_cls=VeRLGeneratorOutput,
+#         generator_input_cls=VeRLGeneratorInput,
+#     ),
+
+register_backend(
+    "verl",
+
+)
+
+__all__ = ["VeRLGeneratorInput", "VeRLBackend", "VeRLGeneratorOutput"]

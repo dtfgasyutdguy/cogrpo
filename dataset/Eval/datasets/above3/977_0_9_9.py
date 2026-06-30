@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+import abc
+from media_manager.notification.schemas import MessageNotification
+
+#     def send_notification(self, message: MessageNotification) -> bool:
+
+class AbstractNotificationServiceProvider(abc.ABC):
+    @abc.abstractmethod
+
+        """
+        Sends a notification with the given message.
+
+        :param message: The message to send in the notification.
+        :return: True if the notification was sent successfully, False otherwise.
+        """
+        pass

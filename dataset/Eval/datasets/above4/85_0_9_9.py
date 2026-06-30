@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+import asyncio
+
+# @celery_app.task
+from owl.configs import celery_app
+from owl.utils.billing import CLICKHOUSE_CLIENT
+
+
+
+def run_periodic_flush_buffer():
+    """
+    Flush redis buffer to clickhouse.
+    """
+    asyncio.get_event_loop().run_until_complete(CLICKHOUSE_CLIENT.flush_buffer())

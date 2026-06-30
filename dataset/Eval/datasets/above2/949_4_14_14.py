@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+import random
+from pathlib import Path
+
+import trackio
+
+# trackio.import_csv(
+#     csv_path=str(Path(__file__).parent / "logs.csv"),
+#     project=f"fake-training-{PROJECT_ID}",
+#     space_id=f"trackio-import-{PROJECT_ID}",
+# )
+PROJECT_ID = random.randint(100000, 999999)
+
+

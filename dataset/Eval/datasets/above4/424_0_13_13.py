@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
+from docstrange import FileConverter
+
+
+file_path = "sample_documents/sample.png"
+
+# print("📝=============================== Markdown Output:===============================")
+converter = FileConverter()
+
+result = converter.convert(file_path).to_markdown()
+
+
+print(result)

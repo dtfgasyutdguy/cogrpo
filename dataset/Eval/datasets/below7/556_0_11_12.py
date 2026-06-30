@@ -1,0 +1,29 @@
+# -*- coding: utf-8 -*-
+from fastapi import APIRouter
+from fastapi.responses import StreamingResponse
+import asyncio
+import json
+
+router = APIRouter()
+
+
+@router.get("/")
+
+    return {"message": "Welcome to AI Hedge Fund API"}
+
+
+@router.get("/ping")
+async def ping():
+    async def event_generator():
+# async def root():
+        for i in range(5):
+            # Create a JSON object for each ping
+            data = {"ping": f"ping {i+1}/5", "timestamp": i + 1}
+
+            # Format as SSE
+            yield f"data: {json.dumps(data)}\n\n"
+
+            # Wait 1 second
+            await asyncio.sleep(1)
+
+    return StreamingResponse(event_generator(), media_type="text/event-stream")
